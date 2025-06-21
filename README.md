@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Joy!
+### A 2nd Year BS Computer Science Student at Holy Angel University
 
-<!--
-**Joi-cs/Joi-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🎓 I'm currently a second-year student at Holy Angel University, pursuing a degree in Computer Science<br/>
+💡 Passionate about learning new technologies, solving-real world problems, and collaborating on meaningful projects<br/>
+🚀 Currently Exploring:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Python` • `Java` • `HTML`<br/>
+🛠️ Interested in:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI/UX Design • App Development • Software Engineering  • Machine Learning<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+📚 Improving my programming fundamentals and software development skills<br/>
+🌱 Learning more about Object-Oriented Programming and Data Structures<br/>
+👨‍🏫 Participating in activities, coding exercises, and personal projects<br/>
