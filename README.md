@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Joy!
-### A 2nd Year BS Computer Science Student at Holy Angel University
+# 👋 Hi, I'm Joy^^!
+### A 3rd Year BS Computer Science Student at Holy Angel University
 
 ## About me
-🎓 I'm currently a second-year student at Holy Angel University, pursuing a degree in Computer Science<br/>
+🎓 I'm currently a third-year student at Holy Angel University, pursuing a degree in Computer Science<br/>
 💡 Passionate about learning new technologies, solving-real world problems, and collaborating on meaningful projects<br/>
 🚀 Currently Exploring:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Python` • `Java` • `HTML`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Python` • `Java` • `HTML` • `Dart` • `Flutter`<br/>
 🛠️ Interested in:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UI/UX Design • App Development • Software Engineering  • Machine Learning<br/>
 
